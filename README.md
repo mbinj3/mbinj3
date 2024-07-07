@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bin Javed</h1>
+<h1 align="center">Hi 👋, I am Muhammad Bin Javed</h1>
 <h3 align="center">Full Stack website developer, skilled and proficient in MERN Stack web applications development using Front-End technologies HTML 5, CSS 3, JavaScript ES6+ , React JS and Back-End technologies , Node JS, Express JS and Mongo DB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbinj3&label=Profile%20views&color=0e75b6&style=flat" alt="mbinj3" /> </p>
