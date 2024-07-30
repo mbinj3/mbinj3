@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React JS, Node JS, Express JS and MongoDB**
 
-- 📫 How to reach me **muhammadbinjaved99@gmail.com**
+- 📫 How to reach me **muhammadbinjaved3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OkGSSowKrQjlO1u28NOqO2JI9GmzBAIJ/view?usp=drive_link](https://drive.google.com/file/d/1OkGSSowKrQjlO1u28NOqO2JI9GmzBAIJ/view?usp=drive_link)
 
