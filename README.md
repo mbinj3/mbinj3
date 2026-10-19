@@ -13,7 +13,7 @@ I build responsive, user-focused web applications with **JavaScript, TypeScript,
 <p>
   <a href="https://linkedin.com/in/mbinj3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://muhammad-bin-javed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:muhammadbinjaved3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -98,7 +98,7 @@ I am interested in connecting with developers, teams, and people building though
 
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/mbinj3/)
 - **Portfolio:** [Explore my work](https://muhammad-bin-javed.vercel.app)
-- **Email:** [Get in touch](mailto:YOUR_EMAIL_ADDRESS)
+- **Email:** [Get in touch](mailto:muhammadbinjaved3@gmail.com)
 
 ## 📊 GitHub Overview
 
