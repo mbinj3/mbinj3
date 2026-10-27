@@ -76,7 +76,7 @@ A hiring workflow platform with applicant management and recruitment pipeline fe
 - Contributed as a **Frontend Developer**, building and maintaining frontend features.
 - Built with **TypeScript, React.js, Tailwind CSS, Hero UI and Zustand,**, integrated with backend APIs.
 - Worked on role based interfaces and hiring workflows, including applicant pipeline and scheduling related experiences.
-- **Project:** [Add repository or case-study link](YOUR_WAVEHIRE_PROJECT_URL)
+- **Project:** [muhammad-bin-javed.vercel.app/projects/wavehire](https://muhammad-bin-javed.vercel.app/projects/wavehire)
 
 ### AI Job Application Copilot
 An AI-focused project concept for tailoring job applications to a specific job description.
