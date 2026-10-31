@@ -74,16 +74,16 @@ I build responsive, user-focused web applications with **JavaScript, TypeScript,
 A hiring workflow platform with applicant management and recruitment pipeline features.
 
 - Contributed as a **Frontend Developer**, building and maintaining frontend features.
-- Built with **TypeScript, React.js, Tailwind CSS, Hero UI and Zustand,**, integrated with backend APIs.
+- Built with **TypeScript, React.js, Tailwind CSS, Hero UI and Zustand**, integrated with backend APIs.
 - Worked on role based interfaces and hiring workflows, including applicant pipeline and scheduling related experiences.
 - **Project:** [muhammad-bin-javed.vercel.app/projects/wavehire](https://muhammad-bin-javed.vercel.app/projects/wavehire)
 
-### AI Job Application Copilot
+### CareerPilot AI — Job Application Copilot
 An AI-focused project concept for tailoring job applications to a specific job description.
 
 - Planned workflow includes job description analysis, resume matching, skill gap insights, cover letter drafting, and interview question generation.
 - Intended stack includes **TypeScript, Next.js, Node.js, PostgreSQL, Prisma, and an LLM API**.
-- **Project:** [github.com/mbinj3/AI-Job-Application-Copilot](https://github.com/mbinj3/AI-Job-Application-Copilot)
+- **Project:** [github.com/mbinj3/CareerPilot-AI-Job-Application-Copilot](https://github.com/mbinj3/CareerPilot-AI-Job-Application-Copilot)
 
 ## 🎯 Current Focus
 
